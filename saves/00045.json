@@ -9,5 +9,7 @@
  "key_points": null,
  "content": "",
  "status": "failed",
- "embedding": null
+ "embedding": null,
+ "proven": false,
+ "creator": ""
 }
