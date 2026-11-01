@@ -11,5 +11,6 @@
  "status": "failed",
  "embedding": null,
  "proven": false,
- "creator": ""
+ "creator": "",
+ "original": null
 }

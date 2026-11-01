@@ -14,7 +14,7 @@
   "Build out the presentation from the one-minute version by adding examples, evidence, stories, and details.",
   "When your time is cut down, you know exactly what extra details to drop while keeping your core message intact."
  ],
- "content": "The creator discusses what happens when a presentation slot is suddenly cut short, such as when a meeting runs over and a CEO has a hard stop. Most people respond by talking twice as fast or panicking and deleting slides two minutes before starting, which causes the main message to get lost. The creator states that the real problem starts much earlier because people build their presentations from the slides up. Instead, you should work backwards. Before opening PowerPoint, the creator recommends answering four questions: 'What do I need them to know', 'What do I need them to think', 'How do I want them to feel', and 'What do I want them to do'. Next, you write the one-minute version first by saying it out loud. If it works in one minute, you have a core message. From there, you build it out by adding examples, evidence, stories, and details that people need to trust you and think you are credible. When your ten minutes become five, you know what to drop because it is the extra detail that goes, while the core message stays.",
+ "content": "Your 10-minute slot just got cut to five. Now what? It happens all the time. The meeting before you runs over, the CEO has a hard stop. And most people do one of two things. They talk twice as fast, or they start deleting their slides in a panic two minutes before they start. Either way, the main message gets lost. The real problem though started much earlier because you built the presentation from the slides up. So, work backwards. [music] Before you open PowerPoint, answer four questions. I call this know, think, feel, do. What do I need them to know? What do I need them to think? How do I want them to feel? What do I want them to do? And you write the one-minute version first because if you only had 60 seconds, what would you say? You say it out aloud because if it works in one minute, you have a message. And from there, you build it out. You add the examples, the evidence, the stories, the detail that people need to trust you and think you're credible. So, when your 10 minutes becomes five, well, you know what you need to drop. It is the extra detail that goes. And that core message that you thought about first, well, that stays. And if somebody says, \"Can you just give us the headline?\" You're ready.",
  "status": "done",
  "embedding": [
   -0.020197,
@@ -787,5 +787,6 @@
   -0.003314
  ],
  "proven": false,
- "creator": "-"
+ "creator": "-",
+ "original": true
 }

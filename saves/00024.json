@@ -14,7 +14,7 @@
   "Allow listeners to ask for nuances or caveats if they want more detail.",
   "Before your next meeting, test if you are prepared by writing your recommendation in one sentence; if you cannot, you are not ready yet."
  ],
- "content": "Transcript:\nOn an IMD leadership program, I watched a former hostage negotiator hand everyone red cards. And every time a senior leader rambled, up went the red card. \"Say it in one sentence,\" he said. Brutal and very effective, because the fastest way to lose authority and credibility at work is taking too long to get to your point. Here's what it sounds like. Someone asks for your recommendation and you say, \"So before I get into my recommendation, there's actually quite a lot of nuance here. So we've had a few conversations across different teams and there are several things that we need to weigh up first.\" 30 seconds in, nobody knows where you're going. People disengage, someone checks their phones or responds to an email. The fix is simple: lead with the main point. \"I recommend we delay the launch by two weeks. Here's why.\" Then give your reasons: three maximum, and then stop. If they want the nuance, the caveats, they'll ask, and now they'll want to hear it. So try this before your next meeting: write your recommendation in one sentence. If you can't, you're not ready yet. Point first, then the explanation.\n\nText on screen:\n- Brutal Trick to Stop Rambling\n- IMD LEADERSHIP PROGRAM\n- Welcome to High Performance Leadership, Auditorium M220\n- BLOCKS TO DIALOGUE\n- Say it in one sentence\n- Lead with the main point\n- Write your recommendation in one sentence\n- Point first",
+ "content": "On an IMD Leadership Program, I watched how a former hostage negotiator had everyone red cards. And every time a senior leader rambled, up went the red card. \"Say it in one sentence,\" he said. \"Brutal and very effective.\" Because the fastest way to lose authority and credibility at work is taking too long to get to your point. Here's what it sounds like. Someone asks for your recommendation and you say, \"So, before I get into my recommendation, there's actually quite a lot of nuance here. So, we've had a few conversations across different teams and there are several things that we need to weigh up first.\" 30 seconds in, nobody knows where you're going. People disengage, someone checks their phones, or responds to an email. The fix is simple. Lead with the main point. \"I recommend we delay the launch by 2 weeks. Here's why.\" Then give your reasons. Three maximum and then stop. If they want the nuance, the caveats, they'll ask. And now they'll want to hear it. So, try this before your next meeting. Write your recommendation in one sentence. If you can't, you're not ready yet. Point first, then the explanation.",
  "status": "done",
  "embedding": [
   -0.012898,
@@ -787,5 +787,6 @@
   0.002648
  ],
  "proven": false,
- "creator": "-"
+ "creator": "-",
+ "original": true
 }

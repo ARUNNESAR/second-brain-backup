@@ -14,7 +14,7 @@
   "Once the audience knows what is in it for them, they lean in and stay engaged.",
   "This opening format works for keynotes, team meetings, and executive committee presentations."
  ],
- "content": "The speaker advises against traditional, ineffective presentation openers like: 'Good morning everyone, I'm so happy you're here. I'm Shannon Jenkins and today I'm going to talk to you about storytelling in business.' While this is how most people are taught to open, it fails because the audience has no reason to care yet. The opening moments are critical because that is when the audience decides if the speaker deserves their attention.\n\nInstead of starting with yourself, give the audience a reason to listen first. An effective alternative opening:\n1. Hook with impact: 'There's one tool that makes your ideas stick more than anything else.'\n2. Highlight the problem: 'Most people at work barely use it...'\n3. Set a clear, time-bound deliverable: '...and in the next 15 minutes, I'm going to show you how to use it without sounding cheesy or turning this into a TED talk.'\n4. Deliver the reveal: 'That tool is storytelling.'\n\nWhen you open this way, the audience immediately understands what they will gain, making them lean in and listen. This technique applies universally across keynote speeches, routine team meetings, and high-stakes executive committee presentations: always lead with what the listener has to gain.",
+ "content": "Stop opening presentations like this. Good morning everyone. I'm so happy you're here. I'm Shannon Jenkins and today I'm going to talk to you about storytelling in business. Sound familiar? It's what most of us were taught. The problem is that your audience has no reason to care yet. And the opening is when they decide whether you are worth their attention. So give them a reason first. Here's how I might open instead. There's one tool that makes your ideas stick more than anything else. Most people at work barely use it and in the next 15 minutes I'm going to show you how to use it without sounding cheesy or turning this into a TED Talk. That tool is storytelling. Can you see the difference? Now they know what's in it for them and they lean in. This works in a keynote, it works in a team meeting, it works in a presentation in front of an executive committee. Lead with what the person has to gain from listening. It is the best presentation opener there is.",
  "status": "done",
  "embedding": [
   -0.02765,
@@ -787,5 +787,6 @@
   -0.008486
  ],
  "proven": false,
- "creator": "Shannon Jenkins"
+ "creator": "Shannon Jenkins",
+ "original": true
 }

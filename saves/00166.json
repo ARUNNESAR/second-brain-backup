@@ -11,7 +11,7 @@
   "Context: Use a workspace instead of one-off chats so Claude knows past projects, brand details, and templates.",
   "Music: Use Suno to generate a custom track that matches the pace and mood of the edit."
  ],
- "content": "Three tips to separate your Claude videos from others. Number one, open-source projects. Don't build every effect from scratch. These are the few unique visuals I use. I paste in the repo link and say what to use, then Claude pulls in the actual code. Number two, context. I use a workspace instead of one-off chats. Claude can see my past projects and preferences, so I can say insert my best clips to my profile grid and this is what I get. Number three, music. Sound sets the pace and the mood. I use Suno which is an AI music generator so my agent can create a soundtrack on the fly that fits the video.",
+ "content": "Three tips to separate your Claude videos from others. Number one, open-source projects. Don't build every effect from scratch. These are the fews I use for unique visuals. I paste in the repo link and say what to use, then Claude posing the actual code. Number two, context. I use a workspace instead of one-off chats. Claude can see my past projects and preferences, so I can say insert my best clips to my profile grid and this is what I get. Number three, music. Sound sets the pace and the mood. I use Suno, which is an AI music generator, so my agent can create a soundtrack on the fly that fits the video.",
  "status": "done",
  "embedding": [
   -0.008143,
@@ -784,5 +784,6 @@
   0.010437
  ],
  "proven": false,
- "creator": "-"
+ "creator": "-",
+ "original": true
 }

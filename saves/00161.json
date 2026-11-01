@@ -12,7 +12,7 @@
   "Use this script before letting them go: 'Hey, listen, before I let you go and call you back, I just want to know, is this something you're even interested in? If you're not, I don't want to waste your time.'",
   "Follow the follow-up protocol after checking intent."
  ],
- "content": "The creator discusses how to handle a cold call objection where a prospect says, \"I'm in a very important meeting, call me later!\" The creator argues that if someone is genuinely in an important meeting, they would not pick up their phone for a random call. Therefore, \"That's a smoke screen\" and a lie. Since they did pick up the call, the creator advises to \"check for intent and confirm time before you call them back.\" The creator provides the exact lines to say: \"Hey, listen, before I let you go and call you back, I just want to know, is this something you're even interested in? If you're not, I don't want to waste your time.\" After checking intent, you can proceed with the follow-up protocol.",
+ "content": "I cold called a prospect. He said, \"I'm in a very important meeting. Call me later. What do I say?\" >> Have you really met somebody who's in an important meeting that picks up his phone to a random call? That's a smoke screen. If they've picked up the call, one, check for intent and confirm time before you call them back. Hey, listen, before I let you go and call you back, I just want to know, is this something you're even interested in? If you're not, I don't want to waste your time. And after that, you do the follow-up protocol.",
  "status": "done",
  "embedding": [
   -0.017712,
@@ -785,5 +785,6 @@
   0.001239
  ],
  "proven": false,
- "creator": "-"
+ "creator": "-",
+ "original": true
 }

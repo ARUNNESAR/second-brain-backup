@@ -12,7 +12,7 @@
   "The creator highlights the advantage of the moment: having the job, money, health, and mental capability right now.",
   "The creator advises: \"When it's raining in your life, when things are going good, do not think about romance, think about what you should do next.\""
  ],
- "content": "The creator shares a tweet on screen: \"You are poor because when it rains, you think about romance instead of farming.\" She explains that when you still have your job, money, health, and mental capability, you should avoid focusing on shallow goals like going on dates, fancy cafes, or trips. She notes that people in her network who are in the top 1% are always looking to double down on their revenue. She explains that they realize the advantage of the present moment, knowing they have the health and mental capacity to keep going today, whereas tomorrow they might not. Her final advice is that when things are going well in your life, you should not focus on romance; instead, you should focus on your next steps.",
+ "content": "You are poor because when it fails, you  think about romance instead of thinking  about farming. When you still have that  job, when you still have that money  coming in, when you still have the  health, when you still have the mental  capability. You are thinking about  shallow goals such as going on to the  next stage. Or going to a fancy cafe or  a fancy trip, whatever it is, and I am  not saying you should not do these  things. But on the other hand, I know  people in my network who are in the top  1%who are constantly on to their next  role; they are already doing great in  their life. But they constantly want to  double down on the revenue that they  are making. Why? Because they realize  the advantage of the moment. They  realize that today they can double down  on the revenue. Today they have the  health, they have the mental capability  to keep going on; tomorrow they might  not. So when it is raining in your life , when things are going good, do not  think about romance, think about what  you should do next.",
  "status": "done",
  "embedding": [
   0.001638,
@@ -785,5 +785,6 @@
   0.008849
  ],
  "proven": false,
- "creator": "-"
+ "creator": "-",
+ "original": true
 }
