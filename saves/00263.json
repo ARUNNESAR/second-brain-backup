@@ -13,7 +13,7 @@
   "For 'I'm not interested', respond: 'Completely understand, letting you go. Before I let you go, can I ask you a question? Is this because you don't want the service or because it's a random cold call?'",
   "For 'Send me an email', respond: '100%, sending you an email right away. Can I ask you a question? What would you like to see in that email?'"
  ],
- "content": "The creator shares a method to handle objections on cold calls called APA, which stands for Acknowledge, Permission, and Ask questions. The creator claims that acknowledging lowers the prospect's guard, taking permission respects their time, and asking questions gives you an opening that can enter you into a meeting. Scenario one: Somebody says, 'I'm not interested!' Response: \"Completely understand, letting you go. Before I let you go, can I ask you a question? Is this because you don't want the service or because it's a random cold call?\" Scenario two: Somebody says, 'Send me an email'. Response: \"100%, sending you an email right away. Can I ask you a question? What would you like to see in that email?\"",
+ "content": "What's the best way to handle objections on cold call? >> Acknowledge, permission, and ask questions. The reason why you acknowledge is you want to lower their guard, and then you take permission, and then ask the question which is going to give you some opening that can enter you into a meeting. Somebody says, \"I'm not interested.\" Completely understand. Letting you go. Before I let you go, can I ask you a question? Is this because you don't want our service or because it's a random cold call? Send me an email. 100% sending you an email right away. Can I ask you a question? What would you like to see, I think?",
  "status": "done",
  "embedding": [
   -0.026594,
@@ -787,5 +787,5 @@
  ],
  "proven": false,
  "creator": "",
- "original": false
+ "original": true
 }
