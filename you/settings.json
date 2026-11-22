@@ -1,5 +1,6 @@
 {
- "asked": "[[\"06 Nov\", \"Test from Claude: how do I negotiate better?\\n(More detail from Arun: A workplace or promotion discu)\"]]",
+ "asked": "[[\"06 Nov\", \"Test from Claude: how do I negotiate better?\\n(More detail from Arun: A workplace or promotion discu)\"], [\"22 Nov\", \"Just try another way this is the contact over all\"], [\"22 Nov\", \"This is not for the networking even this is for the salary negotiation\"], [\"22 Nov\", \"I saw a video about this and shared here\"], [\"22 Nov\", \"I don't understand why are you looking into cold call, see this is for the salary in negotiation like HR are the people or manageable say like yes only AI is doing the work right then why are you asking so much for that I need to answer like\\n(More detail from Arun: Yes, give me a script to handl)\"], [\"22 Nov\", \"See about the ai in the interview I want answers\"], [\"22 Nov\", \"Still this is not what I asked for see the question is in the interview that hrv be asking right yeah is only doing the job right why are you asking this much so far that I seen a person responded like yes a is doing the job or anyone can do the job like anyone can do the job with a help right\"], [\"22 Nov\", \"First tell what u understand from what I said\"]]",
+ "gaps": "[[\"22 Nov\", \"I saw a video about this and shared here\"], [\"22 Nov\", \"First tell what u understand from what I said\"]]",
  "pc_daily_on": "2026-11-11",
  "pc_last_run": "1794405684.4939082",
  "pc_tries": "{\"258\": 3, \"226\": 3, \"45\": 3}",
@@ -8,7 +9,7 @@
  "review_last": "2026-11-06",
  "review_streak": "1",
  "review_today": "2026-11-06:3",
- "selftest_last": "{\"avg\": 3.7, \"at\": \"2026-11-15\"}",
+ "selftest_last": "{\"avg\": 4.1, \"at\": \"2026-11-22\"}",
  "tip_answer": "shown",
  "tip_blocked": "shown",
  "tip_saved": "shown",
